@@ -6,7 +6,7 @@ pipeline {
                 git branch: "master", credentialsId: 'git2', url: 'https://github.com/rajrex205/maven-project.git'
             }
         }
-	stage{
+    stage{
       continuous_integration{
         build
         static_code_analysis
