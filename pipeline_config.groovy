@@ -1,4 +1,6 @@
 libraries{
-    maven
+    maven {
+        sh 'mvn compile'
+    }
     sonarqube
 }
