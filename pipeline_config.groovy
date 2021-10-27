@@ -1,4 +1,5 @@
 libraries{
+    github
     maven
     sonarqube
 }
