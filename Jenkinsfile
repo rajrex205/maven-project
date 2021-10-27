@@ -1,3 +1,3 @@
-github()
+checkout()
 build()
 static_code_analysis()
