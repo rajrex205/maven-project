@@ -8,5 +8,5 @@ pipeline {
         }
 	}
 }
-build()
+compile()
 static_code_analysis()
