@@ -1,6 +1,6 @@
 libraries{
     maven{
-    some_var = "mvn build"
+    some_var = "mvn clean install"
     }
     sonarqube
 }
